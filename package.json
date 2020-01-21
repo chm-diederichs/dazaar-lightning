@@ -15,7 +15,8 @@
   "devDependencies": {
     "pump": "^3.0.0",
     "hypercore": "^8.4.0",
-    "dazaar": "github:bitfinexcom/dazaar"
+    "dazaar": "github:bitfinexcom/dazaar",
+    "dazaar-payment": "github:bitfinexcom/dazaar-payment"
   },
   "repository": {
     "type": "git",
